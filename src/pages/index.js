@@ -9,10 +9,9 @@ const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
     <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <p>Welcome to Useful Resources to daily persistent worries site.</p>
     <StaticImage
-      src="../images/gatsby-astronaut.png"
+      src="../images/calc.jpg"
       width={300}
       quality={95}
       formats={["auto", "webp", "avif"]}
@@ -20,7 +19,7 @@ const IndexPage = () => (
       style={{ marginBottom: `1.45rem` }}
     />
     <p>
-      <Link to="/page-2/">Go to page 2</Link> <br />
+      <Link to="/future-useful-resource/">Go to future useful resource</Link> <br />
       <Link to="/percentage-calculation/">Go to "Percentage Calculation"</Link>
     </p>
   </Layout>

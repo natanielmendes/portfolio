@@ -29,7 +29,7 @@ const UsingTypescript: React.FC<PageProps<DataProps>> = ({ data, path }) => {
   }
   
   const updateResult = () => {
-    setResult(firstPercentageValue * 100 / secondPercentageValue);
+    setResult(Number((firstPercentageValue * 100 / secondPercentageValue).toFixed(2)));
   }
   
   return (
