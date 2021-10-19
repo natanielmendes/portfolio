@@ -21,6 +21,7 @@ const IndexPage = () => (
     <p>
       <Link to="/future-useful-resource/">Go to future useful resource</Link> <br />
       <Link to="/percentage-calculation/">Go to "Percentage Calculation"</Link>
+      <Link to="https://natanielmendes.github.io/compound-interest-calculator/">Go to "Compound Interest Calculation"</Link>
     </p>
   </Layout>
 )
