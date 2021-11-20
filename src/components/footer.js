@@ -1,14 +1,14 @@
-import React from 'react';
+import React from 'react'
+
+import './footer.scss'
 
 const Footer = () => {
     return (
-        <footer
-            style={{
-                marginTop: `2rem`,
-            }}
-        >
-            <p>Created by Nataniel Carvalho © {new Date().getFullYear()}</p>
-        </footer>
+        <div className='footer__container'>
+            <footer>
+                <p>Created by Nataniel Carvalho © {new Date().getFullYear()}</p>
+            </footer>
+        </div>
     )
 }
 
