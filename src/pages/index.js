@@ -15,7 +15,7 @@ const IndexPage = () => (
       <div className="home__profile">
         <OutboundLink href="https://app.daily.dev/natanielmendes" alt="Link to Dev.to Nataniel Carvalho's profile">
           <StaticImage
-            src="https://api.daily.dev/devcards/f9aec4e8d42049ddbddc03f35ee67424.png?r=5dd"
+            src="https://api.daily.dev/devcards/f9aec4e8d42049ddbddc03f35ee67424.png?r=ygs"
             width={300}
             formats={["auto", "webp", "avif", "png"]}
             alt="Nataniel Carvalho's Dev Card"
