@@ -1,0 +1,15 @@
+.home {
+    &__container {
+        display: flex;
+    }
+
+    &__profile {
+        width: 50%;
+        text-align: center;
+    }
+
+    &__useful-resources {
+        width: 50%;
+        align-self: center;
+    }
+}
