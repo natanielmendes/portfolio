@@ -3,7 +3,7 @@ module.exports = {
     title: `Portfolio`,
     description: `Useful resources to daily persistent worries`,
     author: `Nataniel Carvalho`,
-    siteUrl: `https://github.com/natanielmendes/portfolio`,
+    siteUrl: `https://natanielmendes.github.io/portfolio/`,
   },
   plugins: [
     `gatsby-plugin-sass`,
