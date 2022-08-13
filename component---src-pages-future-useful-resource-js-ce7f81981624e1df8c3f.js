@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[609],{9597:function(e,t,u){u.r(t);var r=u(7294),l=u(5444),o=u(967),n=u(3751);t.default=function(){return r.createElement(o.Z,null,r.createElement(n.Z,{title:"Future useful resource"}),r.createElement("h1",null,"Hi from the future useful resource"),r.createElement("p",null,"Welcome to future useful resource"),r.createElement(l.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-future-useful-resource-js-ce7f81981624e1df8c3f.js.map
