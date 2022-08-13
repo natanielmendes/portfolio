@@ -1,11 +1,12 @@
 {
   "name": "portfolio",
+  "homepage": "http://natanielmendes.github.io/portfolio",
   "private": true,
   "description": "Useful resources to daily persistent worries",
   "version": "0.1.0",
   "author": "Nataniel Carvalho",
   "dependencies": {
-    "gatsby": "^3.14.2",
+    "gatsby": "^4.20.0",
     "gatsby-plugin-google-gtag": "^4.2.0",
     "gatsby-plugin-image": "^1.14.1",
     "gatsby-plugin-manifest": "^3.14.0",
@@ -22,6 +23,7 @@
     "sass": "^1.43.4"
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "prettier": "2.4.1"
   },
   "keywords": [
@@ -35,7 +37,9 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
