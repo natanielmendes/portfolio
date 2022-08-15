@@ -1,11 +1,11 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  <a href="https://natanielmendes.github.io/portfolio/">
+    <img alt="Nataniel Portfolio" src="https://api.daily.dev/devcards/f9aec4e8d42049ddbddc03f35ee67424.png?r=ygs" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Sample Projects Portfolio
+  Portfolio
 </h1>
 
 ## 🚀 Access this project on [Github Pages](https://natanielmendes.github.io/portfolio/) 
