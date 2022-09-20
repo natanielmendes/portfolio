@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Portfolio (Work in Progress)
+  [Work in Progress] Portfolio
 </h1>
 
 ## 🚀 Access this project on [Github Pages](https://natanielmendes.github.io/portfolio/) 
