@@ -8,7 +8,7 @@
   Nataniel Portfolio [Work in Progress]
 </h1>
 
-## 🚀 Access this project on [Github Pages](https://natanielmendes.github.io/portfolio/) 
+## 🚀 Portfolio is published on [Github Pages](https://natanielmendes.github.io/portfolio/) 
 
 ## 🚀 Quick start
 
