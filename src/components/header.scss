@@ -1,0 +1,11 @@
+.header {
+  &__container {
+    background: black;
+    margin-bottom: 1.45rem;
+    text-align: center;
+    padding: 1.45rem 1.0875rem;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+}
