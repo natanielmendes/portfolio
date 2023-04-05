@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Nataniel Portfolioooo [Work in Progress]
+  Nataniel Portfolio [Work in Progress]
 </h1>
 
 ## 🚀 Portfolio is published on [Github Pages](https://natanielmendes.github.io/portfolio/) 
