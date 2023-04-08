@@ -12,7 +12,7 @@
 
 ## 🚀 Quick start
 
-1.  **In order to start developing.*
+1.  **In order to start developing.**
 
     Navigate to your new site’s directory and start it up.
 
